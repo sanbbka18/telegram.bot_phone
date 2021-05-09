@@ -1,0 +1,16 @@
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\bin\Release\netcoreapp3.1\FinderPhoneBot.exe
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\bin\Release\netcoreapp3.1\FinderPhoneBot.deps.json
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\bin\Release\netcoreapp3.1\FinderPhoneBot.runtimeconfig.json
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\bin\Release\netcoreapp3.1\FinderPhoneBot.runtimeconfig.dev.json
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\bin\Release\netcoreapp3.1\FinderPhoneBot.dll
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\bin\Release\netcoreapp3.1\FinderPhoneBot.pdb
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\bin\Release\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\obj\Release\netcoreapp3.1\FinderPhoneBot.csprojAssemblyReference.cache
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\obj\Release\netcoreapp3.1\FinderPhoneBot.AssemblyInfoInputs.cache
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\obj\Release\netcoreapp3.1\FinderPhoneBot.AssemblyInfo.cs
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\obj\Release\netcoreapp3.1\FinderPhoneBot.csproj.CoreCompileInputs.cache
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\obj\Release\netcoreapp3.1\FinderPhoneBot.csproj.CopyComplete
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\obj\Release\netcoreapp3.1\FinderPhoneBot.dll
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\obj\Release\netcoreapp3.1\FinderPhoneBot.pdb
+C:\Users\sanbbka\Documents\2 курс 2 семестр\технологии разработки программного обеспечения\ПроэктТелеграмБот\FinderPhoneBot\obj\Release\netcoreapp3.1\FinderPhoneBot.genruntimeconfig.cache
